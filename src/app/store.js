@@ -1,8 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import reducers from '../redux/reducers';
 
 export const store = configureStore({
-  reducer: {
-    counter: counterReducer,
-  },
+  reducer: reducers,
+  devTools: process.env.NODE_ENV !== 'production', // Enabling Redux DevTools Extension conditionally
 });

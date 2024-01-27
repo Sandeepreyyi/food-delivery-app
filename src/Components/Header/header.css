@@ -1,0 +1,21 @@
+.active_menu{
+    color: rgb(147, 59, 59) !important;
+
+}
+.Box .Button{
+    text-decoration: none !important;
+
+}
+.AppBar .Container{
+    background-color: white !important;
+
+}
+.AppBar .Container image{
+    height: 10px !important;
+    width: 10px;
+}
+.smallLogo {
+    width: 40px;
+    height: 40px;
+  }
+  
