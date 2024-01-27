@@ -94,7 +94,7 @@ const Header = () => {
     
             }}
           >
-            FOODIE
+           hi FOODIE
           </Typography>
           <Typography
             variant="h6"

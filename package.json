@@ -1,5 +1,5 @@
 {
-
+  "homepage": "https://Sandeepreyyi.github.io/food-delivery-app",
   "name": "food-delevary-app",
 
   "version": "0.1.0",
@@ -53,6 +53,10 @@
   "scripts": {
 
     "start": "react-scripts start",
+
+    "predeploy" :" npm run build",
+    
+    "deploy":"gh-pages -d build",
 
     "build": "react-scripts build",
 
