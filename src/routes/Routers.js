@@ -15,9 +15,9 @@ import Orders from '../pages/Orders'
 const Routers = () => {
   return (
    <Routes>
-    <Route path="/" element={<Navigate to="/home"/>} />
+    {/* <Route path="/" element={<Navigate to="/home"/>} /> */}
     {/* <Route index element={<Home/>}></Route> */}
-    {/* <Route path="/" element={<Home/>} /> */}
+    <Route path="/" element={<Home/>} />
     <Route path='/home' element={<Home/>}/>
     <Route path='/allfood' element={<AllFood/>}/>
     <Route path='/cart' element={<Cart/>}/>
