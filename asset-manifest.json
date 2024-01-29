@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/food-delivery-app/static/css/main.1188d269.css",
-    "main.js": "/food-delivery-app/static/js/main.579b925f.js",
-    "static/js/787.058355a9.chunk.js": "/food-delivery-app/static/js/787.058355a9.chunk.js",
-    "static/media/remixicon.svg?t=1702216974873": "/food-delivery-app/static/media/remixicon.a893a09db081c33b6f37.svg",
-    "static/media/remixicon.eot?t=1702216974873": "/food-delivery-app/static/media/remixicon.7832fc24b1b5c2fa8673.eot",
-    "static/media/remixicon.ttf?t=1702216974873": "/food-delivery-app/static/media/remixicon.52f0778f38dae2e35278.ttf",
-    "static/media/hero.png": "/food-delivery-app/static/media/hero.e3ef74be66b8a37b4de8.png",
-    "static/media/logo.jpg": "/food-delivery-app/static/media/logo.31ea2765489f3babf2aa.jpg",
-    "static/media/remixicon.woff?t=1702216974873": "/food-delivery-app/static/media/remixicon.b99107ec9873a9f609e8.woff",
-    "static/media/remixicon.woff2?t=1702216974873": "/food-delivery-app/static/media/remixicon.292547ce587667ba1294.woff2",
-    "static/media/backgroundImg.jpg": "/food-delivery-app/static/media/backgroundImg.64b90cb48d8933e39372.jpg",
-    "static/media/backImg3.png": "/food-delivery-app/static/media/backImg3.d810fc9ce04a41dcc2ee.png",
-    "static/media/res-logo.png": "/food-delivery-app/static/media/res-logo.2f9021c4ef5fe532038e.png",
-    "index.html": "/food-delivery-app/index.html",
-    "main.1188d269.css.map": "/food-delivery-app/static/css/main.1188d269.css.map",
-    "main.579b925f.js.map": "/food-delivery-app/static/js/main.579b925f.js.map",
-    "787.058355a9.chunk.js.map": "/food-delivery-app/static/js/787.058355a9.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.753fa2a4.css",
+    "main.js": "/react-gh-pages/static/js/main.e1a854cc.js",
+    "static/js/787.058355a9.chunk.js": "/react-gh-pages/static/js/787.058355a9.chunk.js",
+    "static/media/remixicon.svg?t=1702216974873": "/react-gh-pages/static/media/remixicon.a893a09db081c33b6f37.svg",
+    "static/media/remixicon.eot?t=1702216974873": "/react-gh-pages/static/media/remixicon.7832fc24b1b5c2fa8673.eot",
+    "static/media/remixicon.ttf?t=1702216974873": "/react-gh-pages/static/media/remixicon.52f0778f38dae2e35278.ttf",
+    "static/media/hero.png": "/react-gh-pages/static/media/hero.e3ef74be66b8a37b4de8.png",
+    "static/media/logo.jpg": "/react-gh-pages/static/media/logo.31ea2765489f3babf2aa.jpg",
+    "static/media/remixicon.woff?t=1702216974873": "/react-gh-pages/static/media/remixicon.b99107ec9873a9f609e8.woff",
+    "static/media/remixicon.woff2?t=1702216974873": "/react-gh-pages/static/media/remixicon.292547ce587667ba1294.woff2",
+    "static/media/backgroundImg.jpg": "/react-gh-pages/static/media/backgroundImg.64b90cb48d8933e39372.jpg",
+    "static/media/backImg3.png": "/react-gh-pages/static/media/backImg3.d810fc9ce04a41dcc2ee.png",
+    "static/media/res-logo.png": "/react-gh-pages/static/media/res-logo.2f9021c4ef5fe532038e.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.753fa2a4.css.map": "/react-gh-pages/static/css/main.753fa2a4.css.map",
+    "main.e1a854cc.js.map": "/react-gh-pages/static/js/main.e1a854cc.js.map",
+    "787.058355a9.chunk.js.map": "/react-gh-pages/static/js/787.058355a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1188d269.css",
-    "static/js/main.579b925f.js"
+    "static/css/main.753fa2a4.css",
+    "static/js/main.e1a854cc.js"
   ]
 }
