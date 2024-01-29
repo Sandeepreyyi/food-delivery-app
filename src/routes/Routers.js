@@ -9,7 +9,6 @@ import Register from '../pages/Register'
 import FoodListing from '../pages/FoodListing'
 import VegetarianItems from '../pages/VegetarianItems'
 import NonVegitarianItems from '../pages/NonVegitarianItems'
-
 import FoodDeserts from '../pages/FoodDeserts'
 import Orders from '../pages/Orders'
 const Routers = () => {
@@ -17,8 +16,8 @@ const Routers = () => {
    <Routes>
     {/* <Route path="/" element={<Navigate to="/home"/>} /> */}
     {/* <Route index element={<Home/>}></Route> */}
-    <Route path="/" element={<Home/>} />
-    <Route path='/home' element={<Home/>}/>
+    <Route path="/" exact element={<Home/>} />
+    <Route path='/home' exact element={<Home/>}/>
     <Route path='/allfood' element={<AllFood/>}/>
     <Route path='/cart' element={<Cart/>}/>
     <Route path='/foodies/:id' element={<FoodDetails/>}/>
