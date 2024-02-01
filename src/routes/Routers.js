@@ -26,7 +26,6 @@ const Routers = () => {
     <Route path='/foodlisting' element={<FoodListing />}/>
     <Route path='/foodlisting/vegetarianItems' element={<VegetarianItems />}/>
     <Route path='/foodlisting/nonvegetarianItems' element={<NonVegitarianItems/>}/>
-    {/* <Route path='/foodlisting/deserts' element={<Desearts/>}/> */}
         <Route path='/foodlisting/deserts' element={<FoodDeserts/>}/>
     <Route path='/orders' element={<Orders/>}/>
 
