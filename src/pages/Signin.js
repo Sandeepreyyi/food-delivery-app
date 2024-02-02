@@ -45,8 +45,7 @@ const Signin = () => {
       return;
     }
 
-    // Successful sign-in, you can navigate to the home page or perform other actions
-    navigate('/home');
+    navigate('/');
   };
 
   

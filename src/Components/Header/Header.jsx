@@ -19,7 +19,7 @@ import logo from '../../asserts/res-logo.png'
 const pages = [
   {
     display:'Home',
-    path:'/home'
+    path:'/'
   },
   {
     display:'Foods',
